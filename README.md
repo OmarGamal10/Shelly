@@ -1,6 +1,6 @@
 # Shelly
 
-Shelly is a simple UNXI shell implementation written in C. It provides core shell functionality along with piping, redirection and command history navigation via arrows.
+Shelly is a simple UNIX shell implementation written in C. It provides core shell functionality along with piping, redirection and command history navigation via arrows.
 
 ## Features
 
